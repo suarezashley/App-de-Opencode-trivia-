@@ -7,6 +7,12 @@ node_modules/
 .expo/
 dist/
 web-build/
+
+# APK generado localmente
+app-release.apk
+
+# token de acceso a EAS (nunca subir)
+.eas-token.txt
 expo-env.d.ts
 
 # Native
